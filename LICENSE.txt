@@ -1,0 +1,1 @@
+This test session doesn't deserve a license, but if it did it would probably be the GNU-GPL.
